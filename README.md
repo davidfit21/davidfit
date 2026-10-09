@@ -2,38 +2,35 @@
 
 # David Fit
 
-Data Scientist specialising in industrial AI, thermal systems modelling, power systems analytics, and digital twin technologies. 
-First Class Honors (1.1) graduate in Data Science & Artificial Intelligence from Dublin City University with experience applying advanced analytics, generative AI, and statistical modelling to complex engineering and energy challenges.
+Data Scientist specializing in industrial AI, power systems analytics, digital twin technologies, and financial analytics.
+
+First Class Honours (1.1) graduate in Data Science & Artificial Intelligence from Dublin City University. I build applied machine learning and analytics projects across energy systems, forecasting, data validation, and financial analytics.
 
 ## Areas of Interest
 
-- Artificial Intelligence & Machine Learning
-- Generative AI, RAG & Agentic Systems
-- Predictive Modelling & Forecasting
-- Digital Twins & Simulation
-- Energy AI & Sustainable Technologies
-- Data Engineering & Automation
-- Statistical Learning & Model Evaluation
+- Machine Learning & Predictive Modelling
+- Energy Analytics & Power Systems Data
+- Time Series Forecasting
+- Dataset Validation & Data Quality
+- Financial Analytics & Market Prediction
+- Model Evaluation & Statistical Analysis
 
 ## What You'll Find Here
 
-This GitHub serves as a collection of projects, research, and technical work spanning:
+This GitHub contains applied data science projects including:
 
-- Machine Learning & Deep Learning Applications
-- Data Engineering Pipelines
-- Statistical Modelling & Forecasting
-- Quantitative Finance Projects
-- Academic Research & Industry Collaboration
+- Wind and energy forecasting models
+- Energy telemetry dataset validation
+- Stock market prediction experiments
+- Financial and quantitative analytics
+- Data cleaning, modelling, and evaluation workflows
 
 ## Current Focus
 
-- Applied AI and Machine Learning
-- Generative AI & Retrieval-Augmented Generation
-- Energy Systems & Thermal Performance Modelling
-- Data-Driven Decision Intelligence
-- Quantitative Research and Forecasting
-- Building Scalable AI Solutions
-
+- Building practical machine learning projects
+- Improving forecasting and model evaluation skills
+- Applying data science to energy and financial datasets
+- Developing cleaner, more reliable data pipelines
 
 ## Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidfit5273@gmail.com)
